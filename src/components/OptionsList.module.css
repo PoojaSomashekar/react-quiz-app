@@ -1,0 +1,11 @@
+.option_container .correct {
+    background-color: rgb(32, 181, 32);
+}
+
+.option_container .wrong {
+    background-color: red;
+}
+.option_container .disabled {
+    pointer-events: none;
+    opacity: 0.6;
+}
